@@ -48,7 +48,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>PlainWebapp</finalName>
-  </build>
 </project>
