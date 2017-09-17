@@ -12,7 +12,7 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/mitchellmc/PlainWebapp.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:mitchellmc/PlainWebapp.git</developerConnection>
     <tag>PlainWebapp-1.0</tag>
   </scm>
 
