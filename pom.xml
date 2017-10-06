@@ -3,7 +3,7 @@
   <groupId>org.example</groupId>
   <artifactId>PlainWebapp</artifactId>
   <packaging>war</packaging>
-  <version>1.12</version>
+  <version>1.13-SNAPSHOT</version>
   <name>PlainWebapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
@@ -13,7 +13,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:mitchellmc/PlainWebapp.git</developerConnection>
-    <tag>PlainWebapp-1.12</tag>
+    <tag>PlainWebapp-1.0</tag>
   </scm>
 
   <build>
